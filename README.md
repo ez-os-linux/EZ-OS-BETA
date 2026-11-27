@@ -2,7 +2,7 @@
 
 Download the ISO from [Releases](https://github.com/ez-os-linux/EZ-OS-BETA/releases).
 
-**Community, help and beta testing:** [join the EZ OS Discord](https://discord.gg/sP9yD5SR5)
+**Community, help and beta testing:** [join the EZ OS Discord](https://discord.gg/eQbM53fCCw)
 
 ```
 EZ OS 0.7.0 - TRIAL VERSION
